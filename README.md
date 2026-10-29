@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Simone 👋
 
-<!--
-**simone-corneli/simone-corneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics Engineering Student
+🔐 Cybersecurity Intern
 
-Here are some ideas to get you started:
+I'm an Electronics Engineering student with a strong interest in cybersecurity, computer networks, 
+and network traffic analysis. I'm currently gaining practical experience through a cybersecurity internship 
+while continuously developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Areas of Interest
+
+Cybersecurity and network security
+
+Network Traffic Analysis
+
+Computer Networks and Protocols
+
+Python and Bash scripting
+
+Wireshark and traffic inspection
+
+🛠️ Currently Learning
+
+Python for practical security-related tasks
+
+Network traffic analysis using Wireshark
+
+Bash and command-line tools
+
+Git and GitHub for version control
+
+🎯 Goals
+
+My goal is to strengthen my technical skills through hands-on projects, explore practical cybersecurity challenges, and build a solid foundation in network security.
+
+📂 Projects
+
+I'm currently developing my skills and working toward building practical projects related to programming, networking, and cybersecurity.
+
+More projects coming soon!
+
+Always learning, building, and exploring.
